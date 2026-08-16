@@ -1,12 +1,12 @@
 # PlantWise AI
 
-Build a mobile-first web app called “PlantAI” for farmers. The app helps farmers identify plants and detect visible plant health problems using their phone camera, then gives simple recommendations through AI.
+A mobile-first web app called “PlantAI” for farmers. The app helps farmers identify plants and detect visible plant health problems using their phone camera, then gives simple recommendations through AI.
 
 IMPORTANT: This is an MVP for a competition/demo. Keep the implementation simple and finishable. Do NOT add unnecessary pages, dashboards, admin panels, payments, maps, social features, profiles, settings, or complex backend systems. Focus only on the core experience below.
 
 1. DESIGN DIRECTION
 
-Use the attached reference screenshots as the visual inspiration.
+
 
 The design should feel:
 
@@ -72,7 +72,7 @@ Do NOT copy the exact UI. Create an original but visually similar design.
 
 2. LANDING PAGE
 
-Create a very simple landing page.
+
 
 Hero section:
 
@@ -531,7 +531,7 @@ This entire flow should be easy to demonstrate in under 2 minutes.
 
 14. TECHNICAL REQUIREMENTS
 
-Use a simple modern stack supported by Lovable.
+
 
 Recommended:
 
@@ -659,27 +659,14 @@ Scanner
 
 Clean mobile camera interface that feels like a real farming AI product.
 
-Results
 
-Beautiful plant image + health card + problem detection + recommendations + AI chat.
 
-Use the provided screenshots as the main visual reference for the result-card style: rounded cards, soft green backgrounds, clear sections, green health indicators, compact information chips, and easy-to-read typography.
 
-Keep everything simple enough to finish within the available Lovable credits.
 
-Before finishing, test the complete primary flow and fix broken buttons, camera access, routing, image display, and AI error states.
 
-Do not spend credits redesigning the application after the core functionality is working.
 
-This project was built with [Lovable](https://lovable.dev).
 
-## Build with Lovable
 
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/e9322b38-3c56-4f5b-b8ea-c8e89f5b3508).
-
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
 
 ## Development
 
