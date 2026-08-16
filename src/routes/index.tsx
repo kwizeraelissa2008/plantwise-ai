@@ -54,6 +54,7 @@ function Landing() {
           <div className="mt-8 space-y-3">
             <Link
               to="/auth"
+              search={{ mode: "signup" }}
               className="flex h-14 w-full items-center justify-center rounded-full bg-primary text-base font-semibold text-primary-foreground shadow-lg transition-transform active:scale-[0.98]"
             >
               Start Scanning
